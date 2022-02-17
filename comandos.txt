@@ -1,0 +1,25 @@
+npm i create-react-app
+
+npx create-react-app mi-proyecto-react
+
+Dentro de ese directorio, puede ejecutar varios comandos:
+
+  npm start
+    Inicia el servidor de desarrollo.
+
+  npm run build
+    Agrupa la aplicación en archivos estáticos para producción.
+
+  npm test
+    Inicia el corredor de pruebas.
+
+  npm run eject
+    Elimina esta herramienta y copia las dependencias de compilación, los archivos de configuración
+    y scripts en el directorio de la aplicación. Si haces esto, ¡no podrás volver!
+
+Le sugerimos que comience escribiendo:
+
+  cd primer_app
+  npm start
+
+¡Feliz piratería!
