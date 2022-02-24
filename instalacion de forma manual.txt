@@ -1,0 +1,25 @@
+Comandos NPM
+paso 1: crear carpeta
+: mkdir miproyecto
+
+paso 2: iniciar git
+:git init
+
+paso 3: iniciar npm
+:npm install
+
+paso 4: crear carpeta src y public
+
+paso 5: instalar react y react-dom
+:npm i react react-dom
+
+paso 6: instalar babel,webpack y html
+Babel:npm install @babel/core @babel/preset-env @babel/preset-react 
+Webpack:npm install webpack webpack-cli webpack-dev-server 
+HTML plugin:npm install babel-loader html-loader html-webpack-plugin
+
+paso 7: configurar webpack.config.js y en package.json start y buld produccion
+
+paso 8: agregar css y sass en el appweb
+:npm i mini-css-extract-plugin css-loader style-loader sass sass-loader -D
+
